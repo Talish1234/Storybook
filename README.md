@@ -6,19 +6,17 @@ Components include an **InputField** with validation states and a **DataTable** 
 ---
 
 ## 📂 Folder Structure
-src/
-│── components/
-│ │── InputField/
-│ │ ├── InputField.tsx # Input field component
-│ │ ├── InputField.stories.tsx # Storybook stories for InputField
-│ │
-│ │── DataTable/
-│ │ ├── DataTable.tsx # Data table component
-│ │ ├── DataTable.stories.tsx # Storybook stories for DataTable
-│
-│── App.tsx # Main app component
-│── main.tsx # React entry point
-│── index.css # Global styles
+src/<br>
+│── components/<br>
+| |── InputField/<br>
+│     ├── InputField.tsx<br>
+|     ├── InputField.stories.tsx<br>
+│ ├── DataTable/<br>
+|     ├── DataTable.tsx<br>
+|     ├── DataTable.stories.tsx<br>
+│── App.tsx<br>
+│── main.tsx<br>
+│── index.css<br>
 
 ---
 
